@@ -1,0 +1,8 @@
+.flex-header {
+    display: flex;
+    justify-content: center;
+}
+
+.purbel-text {
+    color: blueviolet;
+}
